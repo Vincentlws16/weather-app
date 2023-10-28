@@ -1,0 +1,21 @@
+.item {
+    color:blue;
+    font-size: 30px;
+}
+
+#myButton {
+    border: 1px solid red;
+    border-radius: 5px;
+    font-size: 50px;
+    background-color: rgb(13, 0, 255)
+}
+
+#myButton:hover {
+    background-color:aqua
+}
+.imageBox {
+    border: 3px solid orange;
+    margin: 10px;
+    padding: 80px;
+
+}
